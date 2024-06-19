@@ -1,6 +1,6 @@
 # keeper
 
-A new Flutter project.
+A flutter app that is a choose your ending game
 
 ## Getting Started
 
